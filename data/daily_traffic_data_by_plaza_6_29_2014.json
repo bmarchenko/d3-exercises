@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1",
+        "name": "Robert F. Kennedy Bridge Bronx Plaza",
+        "cash_count": "24844",
+        "etc_count": "59073"
+    },
+    {
+        "id": "2",
+        "name": "Robert F. Kennedy Bridge Manhattan Plaza",
+        "cash_count": "17407",
+        "etc_count": "69753"
+    },
+    {
+        "id": "3",
+        "name": "Bronx_Whitestone Bridge",
+        "cash_count": "31980",
+        "etc_count": "89953"
+    },
+    {
+        "id": "4",
+        "name": "Henry Hudson Bridge",
+        "cash_count": "0",
+        "etc_count": "50947"
+    },
+    {
+        "id": "5",
+        "name": "Marine Parkway_Gil Hodges Memorial Bridge",
+        "cash_count": "5479",
+        "etc_count": "22638"
+    },
+    {
+        "id": "6",
+        "name": "Cross Bay Veterans Memorial Bridge",
+        "cash_count": "7337",
+        "etc_count": "19235"
+    },
+    {
+        "id": "7",
+        "name": "Queens Midtown Tunnel",
+        "cash_count": "11076",
+        "etc_count": "59412"
+    },
+    {
+        "id": "8",
+        "name": "Brooklyn_Battery Tunnel",
+        "cash_count": "5750",
+        "etc_count": "31544"
+    },
+    {
+        "id": "9",
+        "name": "Throgs Neck Bridge",
+        "cash_count": "26795",
+        "etc_count": "93188"
+    },
+    {
+        "id": "11",
+        "name": "Verrazano_Narrows Bridge",
+        "cash_count": "18994",
+        "etc_count": "71280"
+    }
+]

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script>
+    function draw(data){
+      d3.select("body")
+        .append("div")
+          .attr("class", "chart")
+        .selectAll(".bar")
+        .data(data)
+        .enter()
+        .append("div")
+          .attr("class", "bar")
+          .style("width", function(d){return d.cash_count/100+"px"})
+          .style("outline", "1px solid black")
+          .text(function(d){
+            return Math.round(d.cash_count);
+          })
+
+
+    }
+
+  </script>
+</head>
+<body>
+  <script>
+    d3.json("data/daily_traffic_data_by_plaza_6_29_2014.json", draw)
+  </script>
+</body>
+</html>
